@@ -7,26 +7,36 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		610916FA2991DA1B005A2EAD /* Orange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 610916F92991DA1B005A2EAD /* Orange.swift */; };
+		613B733D29947F1D00A1AA6C /* Level-1.sks in Resources */ = {isa = PBXBuildFile; fileRef = 613B733C29947F1D00A1AA6C /* Level-1.sks */; };
+		61402BED299AE4B8006FF48C /* Level-3.sks in Resources */ = {isa = PBXBuildFile; fileRef = 61402BEC299AE4B8006FF48C /* Level-3.sks */; };
+		61402BEF299AEC5A006FF48C /* Explosion.sks in Resources */ = {isa = PBXBuildFile; fileRef = 61402BEE299AEC5A006FF48C /* Explosion.sks */; };
+		61402BF1299B0DC1006FF48C /* cartoon-stony-ground-landscape-game-user-interface-illustration_1284-63993.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 61402BF0299B0DC1006FF48C /* cartoon-stony-ground-landscape-game-user-interface-illustration_1284-63993.jpg */; };
 		61B48B312991D2EB004C5B9E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61B48B302991D2EB004C5B9E /* AppDelegate.swift */; };
-		61B48B332991D2EC004C5B9E /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 61B48B322991D2EC004C5B9E /* GameScene.sks */; };
-		61B48B352991D2EC004C5B9E /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = 61B48B342991D2EC004C5B9E /* Actions.sks */; };
+		61B48B332991D2EC004C5B9E /* Level-2.sks in Resources */ = {isa = PBXBuildFile; fileRef = 61B48B322991D2EC004C5B9E /* Level-2.sks */; };
 		61B48B372991D2EC004C5B9E /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61B48B362991D2EC004C5B9E /* GameScene.swift */; };
 		61B48B392991D2EC004C5B9E /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61B48B382991D2EC004C5B9E /* GameViewController.swift */; };
 		61B48B3C2991D2EC004C5B9E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 61B48B3A2991D2EC004C5B9E /* Main.storyboard */; };
 		61B48B3E2991D2EE004C5B9E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 61B48B3D2991D2EE004C5B9E /* Assets.xcassets */; };
 		61B48B412991D2EE004C5B9E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 61B48B3F2991D2EE004C5B9E /* LaunchScreen.storyboard */; };
+		61B48B482991D344004C5B9E /* Smashing-Things.atlas in Resources */ = {isa = PBXBuildFile; fileRef = 61B48B472991D344004C5B9E /* Smashing-Things.atlas */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		610916F92991DA1B005A2EAD /* Orange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Orange.swift; sourceTree = "<group>"; };
+		613B733C29947F1D00A1AA6C /* Level-1.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = "Level-1.sks"; sourceTree = "<group>"; };
+		61402BEC299AE4B8006FF48C /* Level-3.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = "Level-3.sks"; sourceTree = "<group>"; };
+		61402BEE299AEC5A006FF48C /* Explosion.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Explosion.sks; sourceTree = "<group>"; };
+		61402BF0299B0DC1006FF48C /* cartoon-stony-ground-landscape-game-user-interface-illustration_1284-63993.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "cartoon-stony-ground-landscape-game-user-interface-illustration_1284-63993.jpg"; sourceTree = "<group>"; };
 		61B48B2D2991D2EB004C5B9E /* Orange-Tree-Colution.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Orange-Tree-Colution.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		61B48B302991D2EB004C5B9E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		61B48B322991D2EC004C5B9E /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
-		61B48B342991D2EC004C5B9E /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
-		61B48B362991D2EC004C5B9E /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
+		61B48B322991D2EC004C5B9E /* Level-2.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = "Level-2.sks"; sourceTree = "<group>"; };
+		61B48B362991D2EC004C5B9E /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; usesTabs = 0; };
 		61B48B382991D2EC004C5B9E /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
 		61B48B3B2991D2EC004C5B9E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		61B48B3D2991D2EE004C5B9E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		61B48B402991D2EE004C5B9E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		61B48B472991D344004C5B9E /* Smashing-Things.atlas */ = {isa = PBXFileReference; lastKnownFileType = folder.skatlas; path = "Smashing-Things.atlas"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,13 +70,18 @@
 			isa = PBXGroup;
 			children = (
 				61B48B302991D2EB004C5B9E /* AppDelegate.swift */,
-				61B48B322991D2EC004C5B9E /* GameScene.sks */,
-				61B48B342991D2EC004C5B9E /* Actions.sks */,
+				61B48B322991D2EC004C5B9E /* Level-2.sks */,
+				61402BEC299AE4B8006FF48C /* Level-3.sks */,
+				61402BF0299B0DC1006FF48C /* cartoon-stony-ground-landscape-game-user-interface-illustration_1284-63993.jpg */,
+				61402BEE299AEC5A006FF48C /* Explosion.sks */,
+				613B733C29947F1D00A1AA6C /* Level-1.sks */,
 				61B48B362991D2EC004C5B9E /* GameScene.swift */,
 				61B48B382991D2EC004C5B9E /* GameViewController.swift */,
+				610916F92991DA1B005A2EAD /* Orange.swift */,
 				61B48B3A2991D2EC004C5B9E /* Main.storyboard */,
 				61B48B3D2991D2EE004C5B9E /* Assets.xcassets */,
 				61B48B3F2991D2EE004C5B9E /* LaunchScreen.storyboard */,
+				61B48B472991D344004C5B9E /* Smashing-Things.atlas */,
 			);
 			path = "Orange-Tree-Colution";
 			sourceTree = "<group>";
@@ -129,11 +144,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				61B48B482991D344004C5B9E /* Smashing-Things.atlas in Resources */,
+				61402BF1299B0DC1006FF48C /* cartoon-stony-ground-landscape-game-user-interface-illustration_1284-63993.jpg in Resources */,
 				61B48B3C2991D2EC004C5B9E /* Main.storyboard in Resources */,
-				61B48B332991D2EC004C5B9E /* GameScene.sks in Resources */,
+				61B48B332991D2EC004C5B9E /* Level-2.sks in Resources */,
+				61402BED299AE4B8006FF48C /* Level-3.sks in Resources */,
+				613B733D29947F1D00A1AA6C /* Level-1.sks in Resources */,
+				61402BEF299AEC5A006FF48C /* Explosion.sks in Resources */,
 				61B48B3E2991D2EE004C5B9E /* Assets.xcassets in Resources */,
 				61B48B412991D2EE004C5B9E /* LaunchScreen.storyboard in Resources */,
-				61B48B352991D2EC004C5B9E /* Actions.sks in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -147,6 +166,7 @@
 				61B48B372991D2EC004C5B9E /* GameScene.swift in Sources */,
 				61B48B392991D2EC004C5B9E /* GameViewController.swift in Sources */,
 				61B48B312991D2EB004C5B9E /* AppDelegate.swift in Sources */,
+				610916FA2991DA1B005A2EAD /* Orange.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -298,8 +318,7 @@
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UIStatusBarHidden = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -325,8 +344,7 @@
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UIStatusBarHidden = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
